@@ -1,0 +1,11 @@
+the makefile creates the lib they will compile with.
+
+the use of my_printf are the same as for printf
+
+example  :
+
+int main (void)
+{
+	char *str = "hello_word"
+	my_printf("%s", str);
+}
